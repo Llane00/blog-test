@@ -10,7 +10,6 @@
 2. PHP
 3. Java
 
-## 目前是一名前端开发，业余时间学习java
 
 ```javascript
 function f(){
@@ -19,3 +18,10 @@ function f(){
 
 f()
 ```
+
+## 目前是一名前端开发，业余时间学习java
+
+
+[我的github地址](https://github.com/Llane00)
+
+![](github.jpg)
